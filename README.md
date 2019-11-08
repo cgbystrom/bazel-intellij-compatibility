@@ -5,3 +5,4 @@ To run the tests, run `run-local.sh`. It will download plugins and test against 
 A directory called `results/` will be created containing the logs and a .csv file with the exit code for each test.
 See `versions.sh` for the complete list. Assumes that building with the aspects is representative for a working plugin.
 
+Example output can found under [releases](https://github.com/cgbystrom/bazel-intellij-compatibility/releases).
